@@ -36,6 +36,7 @@ button{
   align-items: center;
 }
 input{
+  color: black;
   margin: .5rem 0;
   width: 40vw;
 }
